@@ -31,4 +31,4 @@ async def on_message(ctx):
     if ctx.content.startswith('gachi'):
         await ctx.channel.send("https://media-cdn.tripadvisor.com/media/photo-p/1b/41/a3/eb/hey-bro-nice-dick.jpg")
 
-client.run("MTAxOTk2MDM3NDI3NzE4NTU4OA.GrlQ4G.0v1TIWvaX7Vpb0qlGVHTFn4qbA9X-CMMtmypNI")
+client.run("MTAxOTk2MDM3NDI3NzE4NTU4OA.GvZBdV.924re_4ckIUO25ShEa37TQ0XCU1cvAyJGgv-lg")
