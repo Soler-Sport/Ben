@@ -1,14 +1,12 @@
 from types import MemberDescriptorType
 import discord
 import random
-import os
 
 no = "https://c.tenor.com/hvtkROeQzQgAAAAC/ben-no.gif"
 yes = "https://c.tenor.com/evyoapv3BnsAAAAC/ben-yes.gif"
 ho_ho = "https://c.tenor.com/SLBbnychkCkAAAAC/ben-ho-ho-ho.gif"
 ugh = "https://c.tenor.com/d2itSSm1PRsAAAAC/ben-ugh.gif"
-token_file = open("ban")
-token = token_file.read()
+token = "MTAxOTk2MDM3NDI3NzE4NTU4OA.GUA"+"ckw.tuqSZDSueZZWx_xYArW-7L8yX_kb-8hMDgG0rw"
 reactoin = [no, yes, ho_ho, ugh]
 
 intents = discord.Intents.all()
